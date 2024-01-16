@@ -16,9 +16,6 @@ console.log('Discord Custom Status Changer by https://github.com/zbzyy');
 console.log('Modified by MrDarkShadoow');
 console.log('Your status will be updated in few seconds');
 
-const keepAlive = require('./server.js')
-keepAlive()
-
 client.on('ready', async () => {
 
 
