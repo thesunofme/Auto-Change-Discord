@@ -1,0 +1,25 @@
+{
+  "name": "Discord-Custom-Status-Changer",
+  "version": "1.0.0",
+  "description": "### Time: 1 Seconds = 1000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDarkShadoow/Discord-Custom-Status-Changer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDarkShadoow/Discord-Custom-Status-Changer/issues"
+  },
+  "homepage": "https://github.com/MrDarkShadoow/Discord-Custom-Status-Changer#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
